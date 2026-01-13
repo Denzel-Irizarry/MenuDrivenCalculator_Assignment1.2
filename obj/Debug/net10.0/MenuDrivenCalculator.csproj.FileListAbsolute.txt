@@ -1,0 +1,14 @@
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.AssemblyInfoInputs.cache
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.AssemblyInfo.cs
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.csproj.CoreCompileInputs.cache
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\bin\Debug\net10.0\MenuDrivenCalculator.exe
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\bin\Debug\net10.0\MenuDrivenCalculator.deps.json
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\bin\Debug\net10.0\MenuDrivenCalculator.runtimeconfig.json
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\bin\Debug\net10.0\MenuDrivenCalculator.dll
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\bin\Debug\net10.0\MenuDrivenCalculator.pdb
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.dll
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\refint\MenuDrivenCalculator.dll
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.pdb
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\MenuDrivenCalculator.genruntimeconfig.cache
+D:\Denzel\MSSA CCAD-22\week1\demonstrations\MenuDrivenCalculator\obj\Debug\net10.0\ref\MenuDrivenCalculator.dll
