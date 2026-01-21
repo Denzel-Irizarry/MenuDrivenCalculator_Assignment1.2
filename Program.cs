@@ -13,7 +13,7 @@ namespace MenuDrivenCalculator
         static void MainMenu()
         {
             char exit = 'n';
-            string choice;
+            string? choice;
 
             while (exit == 'n' || exit == 'N')
             {
@@ -94,10 +94,15 @@ namespace MenuDrivenCalculator
                 Console.WriteLine("Number cannot be empty. Returning to main menu.");
                 return;
             }
-            catch (Exception)
+            catch(FormatException ex)
             {
-                Console.WriteLine("Error: Returning to main menu.");
+                Console.WriteLine($"Error: {ex.Message} \nReturning to main menu.");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Error: {ex.Message} \nReturning to main menu.");
                 Console.Clear();
+                Console.ReadKey();
                 return;
             }
             Console.WriteLine();
